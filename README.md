@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to demonstrate the basic HTML skills as well as Git Basics to building a very basic website for 3 different recipes including links to each page, pictures, ingredients list, and steps to complete the recipe.
